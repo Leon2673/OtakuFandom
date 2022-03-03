@@ -1,0 +1,37 @@
+.headline {
+  text-align: center;
+  text-decoration: bold;
+  font-family: Courier;
+}
+.phase1 {
+  font-style: solid;
+}
+
+img {  
+  width: 340px;
+}
+.phase2 {
+  font-style: solid;
+  
+}
+h4 {
+ font-family: helvetica;
+}
+.R1 {
+ color: red; 
+}
+.d1 {
+  border: solid 7px;
+  background: linear-gradient(white,red)
+}
+.d2 {
+  
+}
+p {
+  font-style: solid;
+  font-size: 20px
+}
+.9T{
+font-family: helvatica;
+  font-size: 10rem;
+}
